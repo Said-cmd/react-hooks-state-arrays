@@ -1,6 +1,7 @@
 import React from "react";
 import SpicyFoodList from "./SpicyFoodList";
 
+
 function App() {
   return (
     <div>
@@ -9,5 +10,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
